@@ -1,4 +1,4 @@
-# fast-h5-template
+# vue3-h5-template
 
 前端h5模版项目，vue3+vite3+vant+js
 
@@ -7,7 +7,7 @@
 - 获取项目代码
 
 ```bash
-git clone git@10.67.89.83:zhangyuanliang/fast-h5-template.git
+git clone https://github.com/zhangyuanliang/vue3-h5-template.git
 ```
 - NodeJs
 ```bash
@@ -17,7 +17,7 @@ git clone git@10.67.89.83:zhangyuanliang/fast-h5-template.git
 - 安装依赖
 
 ```bash
-cd fast-h5-template
+cd vue3-h5-template
 
 yarn install
 
